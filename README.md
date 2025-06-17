@@ -34,6 +34,8 @@ involved and how Envoy plays a role, read the CNCF
 * [envoy-perf](https://github.com/envoyproxy/envoy-perf): Performance testing framework.
 * [envoy-filter-example](https://github.com/envoyproxy/envoy-filter-example): Example of how to add new filters
   and link to the main repository.
+* [gateway](https://github.com/envoyproxy/gateway): Envoy Gateway
+* [ai-gateway](https://github.com/envoyproxy/gateway): Use Envoy Gateway for Generative AI
 
 ## Contact
 
